@@ -1,0 +1,30 @@
+# Essentially Minimal theme but with constant home section bg color.
+name = "custom"
+
+[light]
+  primary = "#14661b"
+  home_section_odd = "#ffffff"
+  home_section_even = "#fae4d4"
+
+  # Menu
+  menu_primary = "#ffffff"
+  menu_text = "#fa562a"
+  menu_text_active = "#fa562a"
+  menu_title = "#fa562a"
+  
+[dark]
+  primary = "#e6e6e6"
+  # background = "#1F2422"
+  home_section_even = "#e6e6e6"
+  home_section_odd = "#14661b"
+  
+  # Menu
+  # menu_primary = "#1a0000"
+  # menu_text = "#fa562a"
+  # menu_text_active = "#fa562a"
+  # menu_title = "#fa562a"
+
+  menu_primary = "#e6e6e6"
+  menu_text = "#14661b"
+  menu_text_active = "#14661b"
+  menu_title = "#14661b"

@@ -1,0 +1,52 @@
+// change footer color
+.page-footer {
+  background-color: black;
+}
+
+// Override featurette icon text color
+.featurette-icon,
+.dark .featurette .section-subheading {
+  color: #14661b;
+}
+
+
+
+// Center sponsor logos
+#sponsors figure {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+}
+
+.dark .portrait-title h2 {
+  color: black;
+}
+
+.dark .portrait-title h3 {
+  color: black;
+}
+
+.dark .portrait-title h2 {
+  color: black;
+}
+
+.network-icon [class*=" fa-"] {
+  color: black;
+}
+
+.home-section.dark h2 {
+  color: black;
+}
+
+.dark .section-subheading {
+  color: black;
+}
+
+.dark h1 {
+  color: black;
+}
+
+body.dark {
+  color: black;
+}
