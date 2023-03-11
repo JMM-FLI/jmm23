@@ -10,7 +10,7 @@ title: Sponsors
 subtitle: 'Would like to support us organise this fantastic event and future editions? [Contact Us](#contact)'
 design:
   background:
-    image: backgrounds/spotlight.webp
+    image: spotlight.webp
     text_color_light: true
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.

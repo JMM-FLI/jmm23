@@ -16,7 +16,7 @@ cta:
 #     
 design:
   background:
-    image: backgrounds/fli2.jpeg
+    image: fli2.jpeg
     image_darken: 0.8
       # filters:
     # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
