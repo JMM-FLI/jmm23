@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | JMM&#39;23</title>
-    <link>https://jmm.github.io/jmm23/categories/</link>
-      <atom:link href="https://jmm.github.io/jmm23/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmm-fli.github.io/jmm23/categories/</link>
+      <atom:link href="https://jmm-fli.github.io/jmm23/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://jmm.github.io/jmm23/media/logo_hu0cd25dd1babe2ca7c8a21820d4b924a9_18818_300x300_fit_lanczos_3.png</url>
+      <url>https://jmm-fli.github.io/jmm23/media/logo_hu0cd25dd1babe2ca7c8a21820d4b924a9_18818_300x300_fit_lanczos_3.png</url>
       <title>Categories</title>
-      <link>https://jmm.github.io/jmm23/categories/</link>
+      <link>https://jmm-fli.github.io/jmm23/categories/</link>
     </image>
     
   </channel>
