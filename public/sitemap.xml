@@ -4,17 +4,11 @@
   
   
   <url>
-    <loc>https://jmm.github.io/jmm23/event/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://jmm.github.io/jmm23/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://jmm.github.io/jmm23/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc></loc><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://jmm.github.io/jmm23/categories/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://jmm-fli.github.io/jmm23/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><changefreq>weekly</changefreq></url>
   <url>
@@ -24,7 +18,7 @@
   <url>
     <loc></loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><changefreq>weekly</changefreq></url>
+    <loc>https://jmm-fli.github.io/jmm23/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><changefreq>weekly</changefreq></url>
   <url>
@@ -36,4 +30,12 @@
   <url>
     <loc></loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://jmm.github.io/jmm23/tags/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc></loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jmm-fli.github.io/jmm23/tags/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><changefreq>weekly</changefreq></url></urlset>

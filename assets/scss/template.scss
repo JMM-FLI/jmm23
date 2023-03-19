@@ -6,10 +6,10 @@
 // Override featurette icon text color
 .featurette-icon,
 .dark .featurette .section-subheading {
-  color: #14661b;
+  color: #075c2f;
 }
 
-
+//color: #14661b;
 
 // Center sponsor logos
 #sponsors figure {
@@ -50,3 +50,20 @@
 body.dark {
   color: black;
 }
+
+.dark a {
+  color: #008b42;
+  font-weight: bold;
+}
+
+.dark a:hover {
+  color: #075c2f !important;
+  font-weight: bold;
+}
+
+.dark a:visited {
+  color: #008b42 !important;
+  font-weight: bold;
+}
+
+
